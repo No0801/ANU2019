@@ -3,9 +3,9 @@
 Barbarroux Pierrick,                            
 Rioust Lucas,
 Pillonel Matthis
-                                                            ENSIIE 2019
-                                                          Rapport Projet ANU
-                                                           Pictionary.iie
+#                                                          **ENSIIE 2019**
+#                                                        **Rapport Projet ANU**
+#                                                         **Pictionary.iie**
 
 
 **Idée du projet initial** : 
