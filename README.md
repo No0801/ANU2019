@@ -1,11 +1,11 @@
 # ANU2019
 
-#Barbarroux Pierrick,                            
-#Rioust Lucas,
-#Pillonel Matthis
-                                                            #ENSIIE 2019
-                                                          #Rapport Projet ANU
-                                                           #Pictionary.iie
+Barbarroux Pierrick,                            
+Rioust Lucas,
+Pillonel Matthis
+                                                            ENSIIE 2019
+                                                          Rapport Projet ANU
+                                                           Pictionary.iie
 
 
 **Idée du projet initial** : 
@@ -27,8 +27,8 @@ Il doit alors le dessiner à l'aide des deux potentiometres et le faire deviner 
 Une premiere arduino contrôle le choix du mot à dessiner et son affichage ainsi que l'affichage du temps. 
 Une deuxieme arduino reçoit les inputs des deux potentiometres et du bouton reset et les communique avec Proccessing pour afficher le dessin. 
 
-Mise en place : #Téléverser le code d'affichage dans la première carte et l'installer du côté du dessinateur. 
-		        #Téléverser le code de dessin dans la deuxième en la laissant connectée au PC. 
-		        #Lancer l'application proccessing. 
-		        #Jouer.
+Mise en place :  1. Téléverser le code d'affichage dans la première carte et l'installer du côté du dessinateur. 
+		        2.Téléverser le code de dessin dans la deuxième en la laissant connectée au PC. 
+		        3.Lancer l'application proccessing. 
+		        4.Jouer.
 
